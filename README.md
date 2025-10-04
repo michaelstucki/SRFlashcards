@@ -47,7 +47,7 @@ The Leitner boxes are 0-indexed (i.e., the first box has an index of 0, the seco
 
 ## Home Screen
 
-![landing](https://github.com/user-attachments/assets/ee7084ca-a6f2-4587-871b-2077c0fac8af)
+<img width="738" height="651" alt="SRFlashcards_home" src="https://github.com/user-attachments/assets/5eec5480-629d-4dfb-96d1-51edba9d1449" />
 
 ## Demo
 
