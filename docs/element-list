@@ -1,0 +1,7 @@
+module:com.michaelstucki.srflashcards
+com.michaelstucki.srflashcards
+com.michaelstucki.srflashcards.constants
+com.michaelstucki.srflashcards.controller
+com.michaelstucki.srflashcards.dao
+com.michaelstucki.srflashcards.dto
+com.michaelstucki.srflashcards.util
