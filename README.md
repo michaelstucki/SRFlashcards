@@ -2,13 +2,38 @@
 
 FlashcardApp is a spaced repetition *desktop* application in JavaFX and SQLite that enables a user to create an account and within the account to create and manage decks of flashcards and to drill them. Multiple users can use the app on the same computer, each user having their own account.
 
-## Installation (MacOS Only)
+## Installation
 
-Double-click the .dmg to install.
+### MacOS
+
+Double-click the .dmg.
+
+### Windows
+
+Double-click the .exe.
+
+### Linux
+
+Right-click > Open With Other Application > GDebi Package Installer > Select > Install Package > enter password.
+
+## Execution
+
+### MacOS
+
+Click Launchpad > SRFlashcards.
+
+### Windows
+
+Click Start > All > SRFlashcards.
+
+### Linux
+
+Click Show Apps > SRFlashcards.
+
 
 ## Usage
 
-Click installed app from Launchpad. From the landing screen, user can create an account, login, or recover their password.
+From the landing screen, user can create an account, login, or recover their password.
 Once logged in, user can delete their account, change their password, or view, create, rename, or delete decks.
 User can open a deck to view, add, delete, or edit cards in the deck. Finally, user can drill cards in a deck.
 
